@@ -1,2 +1,2 @@
 # IntroToML
-The code in the course of CSE417T at WashU.
+The code of WashU 2022 Spring CSE417T.
